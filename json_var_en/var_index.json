@@ -1,0 +1,24 @@
+{
+  "title" : "InfoYouth",
+  "path_home_lg": "/",
+  "path_home": "/en",
+  "path_signin": "/en/signIn",
+  "sous_menu1" : "Home",
+  "sous_menu2" : "Universites",
+  "sous_menu3" : "Entertainment",
+  "sous_menu4" : "Accommodation",
+  "sous_menu5" : "Contact",
+  "sous_menu6" : "Avis",
+  "sous_menu7" : "SignUp",
+  "sous_menu8" : "SignIn",
+  "titre_p1" :  "You are looking for the right university to complete your course",
+  "contenu_p1" :  "Our site will help you choose the right option and will also make it easier for you to search for universities in Tunisia.",
+  "parg" :  "Discover more",
+  "titre_p2" :  "You are looking for the nearest university accommodation for your place of study",
+  "contenu_p2" :  "You can find in our website the best strategic sites closest.",
+  "titre_p3" :  "You can be more active",
+  "contenu_p3" :  "You can find the nearest restaurants, cafes and sports clubs to your place of study through the site easily."
+
+
+
+}

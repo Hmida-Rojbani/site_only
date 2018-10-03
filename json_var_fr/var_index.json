@@ -1,0 +1,49 @@
+{
+  "title" : "InfoJeune",
+  "path_home_lg": "/en",
+  "path_home": "/",
+  "path_signin": "/signIn",
+  "sous_menu1" : "Accueil",
+  "sous_menu2" : "Universités",
+  "sous_menu3" : "Moyens de loisirs",
+  "sous_menu4" : "Logements",
+  "sous_menu6" : "Contact",
+  "sous_menu5" : "Avis",
+  "sous_menu7" : "S'inscrire",
+  "sous_menu8" : "Se connecter",
+  "titre_p1" :  "Vous recherchez la bonne université pour compléter votre cursus",
+  "contenu_p1" :  "Notre site vous aidera à choisir la bonne option et vous facilitera la recherche d'universités en Tunisie.",
+  "parg" :  "Découvrir plus",
+  "titre_p2" :  "Vous recherchez le logement universitaire le plus proche de votre lieu d'étude",
+  "contenu_p2" :  "Vous pouvez trouver sur notre site les emplacement stratégiques les plus proches.",
+  "titre_p3" :  "Vous pouvez être plus actif",
+  "contenu_p3" :  "Vous pouvez facilement trouver les restaurants, cafés et clubs sportifs les plus proches de votre lieu d’études sur ce site.",
+  "title_sous_menu2": "Universités",
+  "parag_sous_menu2": "Trouvez les meilleures universités en tunisie",
+  "title_sous_menu3": "Moyens de loisir",
+  "parag_sous_menu3": "Trouvez les plus proches moyens de loisir à votre université",
+  "title_sous_menu4": "Logements",
+  "parag_sous_menu4": "Trouvez les plus proches logements à votre université",
+  "title_sous_menu5": "Les avis des membres",
+  "parag_sous_menu5": "Autour de la tunisie",
+  "title_sous_menu6": "Contactez-nous",
+  "parag_sous_menu6": "Nous aimons les conversations. laissez-nous parler!",
+  "input1_sous_menu6": "Nom",
+  "input2_sous_menu6": "Email",
+  "input3_sous_menu6": "Parlez-nous de votre message",
+  "button_sous_menu6": "Envoyer",
+  "titleN_sous_menu6": "Inscription à la Bulletin d'information",
+  "input4_sous_menu6": "Email"
+
+
+  
+  
+
+
+
+
+  
+
+
+
+}
